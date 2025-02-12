@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9373226126",
+    "project_id": "schallenge2025-6f525",
+    "storage_bucket": "schallenge2025-6f525.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+          "mobilesdk_app_id": "1:9373226126:android:4855aee1433b0d192625df",
+        "android_client_info": {
+          "package_name": "com.example.s_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo8VDJxKIGeJ6brbch7VNUiZYiZgmowl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
