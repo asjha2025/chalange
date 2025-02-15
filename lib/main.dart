@@ -9,7 +9,7 @@ void main() async {
     options: FirebaseOptions(
       apiKey: "AIzaSyBo8VDJxKIGeJ6brbch7VNUiZYiZgmowl0",
       appId: "1:9373226126:android:4855aee1433b0d192625df",
-      messagingSenderId: "your-messaging-sender-id",
+      messagingSenderId: "your-messaging-sesssssnder-id",
       projectId: "schallenge2025-6f525",
       storageBucket: "schallenge2025-6f525.firebasestorage.app",
     ),
